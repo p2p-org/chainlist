@@ -960,9 +960,7 @@ nanoid@^3.3.4:
   integrity sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==
 
 next-intl@^2.9.1:
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/next-intl/-/next-intl-2.9.1.tgz#da90ee45079203806c000c66c21bdf51c830db9a"
-  integrity sha512-/OPaH5T+jOHXEZJfCzfl+ZkmjcNQOvb7DNR0SHSbtzYk/9IqjLFSLlxJvj4JPbW9xivzZbPCdgT5+yGzI2Uk0w==
+  version "2.22.1"
   dependencies:
     use-intl "^2.9.1"
 
